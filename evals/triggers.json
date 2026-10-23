@@ -1,0 +1,25 @@
+{
+  "skill": "tmnmct",
+  "test_cases": [
+    {
+      "input": "Help me close this sales deal and handle the price objection",
+      "should_trigger": true
+    },
+    {
+      "input": "How do I negotiate better terms in this partnership?",
+      "should_trigger": true
+    },
+    {
+      "input": "Write a persuasive email to get them to say yes",
+      "should_trigger": true
+    },
+    {
+      "input": "What's the weather today?",
+      "should_trigger": false
+    },
+    {
+      "input": "Explain quantum physics",
+      "should_trigger": false
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "skill": "tmnmct",
+  "test_cases": [
+    {
+      "name": "sales_objection_price",
+      "input": "Client says the price is too high. Help me close the deal.",
+      "assertions": ["Uses Target Analysis with loss aversion or price framing", "Selects Tactical Empathy + Loss Framing or Anchoring", "Provides copy-paste script"]
+    },
+    {
+      "name": "negotiation_high_stakes",
+      "input": "I need to negotiate a partnership where they have more leverage. How do I win?",
+      "assertions": ["Maps power balance and escape routes", "Justifies tool choice based on diagnosis", "Includes Accusation Audit or Calibrated Questions"]
+    },
+    {
+      "name": "marketing_idea_pitch",
+      "input": "Write a pitch for this new product idea to investors who are skeptical.",
+      "assertions": ["Identifies psychological drivers like status or FOMO", "Chooses tools with justification", "Delivers ready-to-use framing or script"]
+    }
+  ]
+}
